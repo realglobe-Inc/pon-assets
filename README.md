@@ -106,6 +106,13 @@ Assets
 
 | Image | Path |
 | ----- | ---- |
+| <img src="assets/images/pon-banner.png" height="36" style="height:36px;" /> | [assets/images/pon-banner.png](assets/images/pon-banner.png) |
+| <img src="assets/images/pon-cli-banner.png" height="36" style="height:36px;" /> | [assets/images/pon-cli-banner.png](assets/images/pon-cli-banner.png) |
+| <img src="assets/images/pon-context-banner.png" height="36" style="height:36px;" /> | [assets/images/pon-context-banner.png](assets/images/pon-context-banner.png) |
+| <img src="assets/images/pon-favicon.png" height="36" style="height:36px;" /> | [assets/images/pon-favicon.png](assets/images/pon-favicon.png) |
+| <img src="assets/images/pon-logger-banner.png" height="36" style="height:36px;" /> | [assets/images/pon-logger-banner.png](assets/images/pon-logger-banner.png) |
+| <img src="assets/images/pon-timer-banner.png" height="36" style="height:36px;" /> | [assets/images/pon-timer-banner.png](assets/images/pon-timer-banner.png) |
+| <img src="assets/images/ponfile-banner.png" height="36" style="height:36px;" /> | [assets/images/ponfile-banner.png](assets/images/ponfile-banner.png) |
 
 
 <!-- Section from "doc/guides/03.Assets.md.hbs" End -->
