@@ -22,7 +22,10 @@ apeTasking.runTasks('asset', [
       'images/ponfile-banner.png': [ 'core', { name: 'Ponfile' } ],
       'images/pon-timer-banner.png': [ 'core', { name: 'Pon-Timer' } ],
       'images/pon-scaffold-banner.png': [ 'core', { name: 'Pon-Scaffold' } ],
-      'images/pon-context-banner.png': [ 'core', { name: 'Pon-Context' } ]
+      'images/pon-context-banner.png': [ 'core', { name: 'Pon-Context' } ],
+      'images/pon-reader-banner.png': [ 'core', { name: 'Pon-Reader' } ],
+      'images/pon-writer-banner.png': [ 'core', { name: 'Pon-Writer' } ],
+      'images/pon-watcher-banner.png': [ 'core', { name: 'Pon-Watcher' } ]
     }
     for (let filename of Object.keys(banners)) {
       let [ type, config ] = banners[ filename ]
