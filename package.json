@@ -1,6 +1,6 @@
 {
   "name": "pon-assets",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Assets for pon",
   "main": "lib",
   "scripts": {
